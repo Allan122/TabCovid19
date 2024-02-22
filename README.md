@@ -1,4 +1,4 @@
-# Covid19 
+# Covid-19 
 
 Covid-19 Dashboard Designed a Tableau project visualizing global COVID-19 vaccination rates, categorizing populations into partially vaccinated, fully vaccinated, and unvaccinated groups for informed data-driven analysis. 
 
